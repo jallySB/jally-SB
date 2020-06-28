@@ -1,2 +1,2 @@
-# jally-SB
-Spamcall
+# spamcall
+Spam call (panggilan) untuk mengerjai teman
